@@ -1,0 +1,1 @@
+int imageCount = 0;
